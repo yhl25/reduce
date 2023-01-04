@@ -1,0 +1,2 @@
+# reduce
+java numaflow reduce
